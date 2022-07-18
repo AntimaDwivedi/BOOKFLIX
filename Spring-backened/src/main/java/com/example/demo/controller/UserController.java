@@ -102,7 +102,7 @@ public class UserController {
 		return ResponseEntity.ok(books);
 	}
 	@CrossOrigin(origins="*")
-	//update booslk rest api
+	//update book rest api
 	@PutMapping("/books/{id}")
 	public ResponseEntity<book> updateBook(@PathVariable Long id, @RequestBody book bookDetails){
 		book books = bookRepository.findById(id).orElseThrow(()->new ResourceNotFoundException("book with id "+id+" does not exist."));
