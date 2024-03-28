@@ -5,7 +5,7 @@ the **459 million** youth, 333 million are literate, of which 83.4 million read 
 of literate youth)**.47% of these leisure book readers are from urban India and 53% are from rural
 India. Hindi (33.4%), Marathi (13.2%), Bengali (7.7%) & English (5.3%) are the preferred
 languages for leisure reading.** <br> <br>
-**BOOKFLIX was developed  to mitigate the issue of overcrowding in libraries amidst the prevailing COVID-19 circumstances.** <br>
+**BOOKFLIX was developed  to mitigate the issue of overcrowding in libraries amidst the prevailing COVID-19 circumstances.** <br><br>
 The purpose of this project is to help the readers to read according to their feasibility and comfort
 as all the books will be stored in one place and no worries about carrying the books always with
 you. All you need is just a mobile phone.
@@ -34,11 +34,10 @@ experience.<br>
 • MySQL
 • Java
 • HTML, CSS
-• Cloud Deployment
 ### Tools: ###
-• Android Studio
 • Eclipse
 • Visual Studio Code Editor
+• Postman
 
 ### Conclusion: ###
 This Application provides a user-friendly UI and is available 24×7. The application provides different
